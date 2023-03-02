@@ -1,0 +1,2 @@
+# Kalkulacka
+Školni týmový projekt
