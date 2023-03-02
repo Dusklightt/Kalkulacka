@@ -1,0 +1,35 @@
+Stanovení termínů:
+  30.3. Vytvořeny testy pro TDD
+  14.4. Implementace matematické knihovny pomocí TDD
+  16.4. Implementace GUI
+  18.4. Napsána a vygenerována programová dokumentace
+  20.4. Vytvořen Makefile
+  22.4. Vytvořen un/instalátor
+  24.4. Code review a debugging
+  26.4. Vytvořen mockup další verze
+  28.4. Všechno je hotovo a připraveno na odevzdání
+
+Rozdělení práce:
+  xstafl01:
+    Vytvořit testy pro matematickou knihovnu 
+    Implementace matematické knihovny pomocí Test Driven Development
+  xvalac13:
+    Makefile (GNU Make)
+    Vygenerování programové dokumentace (Doxygen)
+  xvasut02:
+    GUI
+  xkubov08:
+    Un/instalátor
+    Debugging
+  Společné:
+    Mockup další verze
+    Některé funkce matematické knihovny
+
+Komunikační kanály: 
+  Discord
+
+Systém pro správu verzí: 
+  Git + Github
+
+Odkaz na repozitář:
+  https://github.com/Dusklightt/IVS-project

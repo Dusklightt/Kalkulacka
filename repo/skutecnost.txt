@@ -1,0 +1,43 @@
+Termíny:
+    30.3. -> 16.4. - Vytvořeny testy pro TDD
+    14.4. -> 20.4. - Implementace matematické knihovny pomocí TDD
+    16.4. -> 17.4. - Implementace GUI
+    18.4. -> 29.4. - Napsána a vygenerována programová dokumentace
+    20.4. -> 29.4. - Vytvořen Makefile
+    22.4. -> 27.4. - Vytvořen un/instalátor
+    24.4. -> X - Code review a debugging
+    26.4. -> 29.4. - Vytvořen mockup další verze
+    28.4. -> 29.4. - Všechno je hotovo a připraveno na odevzdání
+
+Rozdělení práce:
+    Původně:
+        xstafl01:
+            Vytvořit testy pro matematickou knihovnu 
+            Implementace matematické knihovny pomocí Test Driven Development
+        xvalac13:
+            Makefile (GNU Make)
+            Vygenerování programové dokumentace (Doxygen)
+        xvasut02:
+            GUI
+        xkubov08:
+            Un/instalátor
+            Debugging
+        Společné:
+            Mockup další verze
+            Některé funkce matematické knihovny
+    Reálně:
+        xstafl01:
+            Vytvoření testů pro matematickou knihovnu
+            Implementace matematické knihovny pomocí Test Driven Development
+            Profiling
+        xvalac13:
+            Makefile (GNU Make)
+            Vygenerování programové dokumentace (Doxygen)
+            Uživatelská dokumentace
+        xvasut02:
+            GUI
+            Profiling
+        xkubov08:
+            Un/instalátor
+        Společné:
+            Mockup další verze

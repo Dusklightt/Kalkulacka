@@ -1,0 +1,4 @@
+xstafl10 120 (Vytvoření testů, implementace knihovny, profiling)
+xvalac13 90 (Makefile, doxygen, uživatelská dokumentace)
+xvasut02 110 (GUI, profiling)
+xkubov08 80 (Od/instalátor)
